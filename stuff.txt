@@ -1,0 +1,10 @@
+https://www.googleapis.com/youtube/v3/search?part=snippet&key=AIzaSyCGy8B9eDETvLObllJuMSBTapIFoUpUfoA&type=video&q=baby 
+
+link to search
+we just need to change q; 
+
+
+URL WITH SEARCH LIMITS ETC
+https://www.googleapis.com/youtube/v3/search?key=AIzaSyBV_jE8hqfiTyS24C4UJ98N1qw0aUqijvg&type=video&part=snippet&maxResults=10&q=Gomez 
+
+https://www.googleapis.com/youtube/v3/search?key=&type=video&part=snippet&maxResults=10&q=
